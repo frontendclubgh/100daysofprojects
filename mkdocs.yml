@@ -1,0 +1,15 @@
+site_name: Frontend Club
+# site_url: https://frontendclub.dev
+
+theme:
+  name: readthedocs
+  # logo: img/logo.png
+  palette:
+    primary: 'red'
+    accent: 'pink'
+    locale: 'en'
+
+# contenido
+nav:
+  - Bienvenido: 'index.md'
+  - Day 01: '01-day.md'
