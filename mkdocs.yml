@@ -3,11 +3,16 @@ site_name: Frontend Club
 
 theme:
   name: readthedocs
-  # logo: img/logo.png
+  #logo: img/logo.png
+
   palette:
-    primary: 'red'
-    accent: 'pink'
-    locale: 'en'
+    primary: slate
+    accent: indigo
+    accent: pink
+    locale: en
+  toggle:
+     icon: material/weather-sunny  # Icono de cambio de tema
+     name: Switch to light mode  # Texto del botón
 
 # contenido
 nav:
