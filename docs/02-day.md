@@ -1,8 +1,8 @@
-# Profile Card
+# Blog Preview Card
 
-![profile card](./img/01-day.png)
+![blog preview card](./img/02-day.jpg)
 
-Nuestro primer desafío será codificar una **tarjeta de perfil personal**, usando HTML y CSS, y lograr que se parezca lo más posible al diseño original.
+Nuestro segundo desafío será codificar una **tarjeta de blog**, usando HTML y CSS, y lograr que se parezca lo más posible al diseño original.
 
 ## Recursos
 
@@ -14,14 +14,14 @@ Aquí encontrarás los recursos necesarios para completar el desafío.
 - Escritorio: 1200px
 
 ## Colores
-- Background: #212020
-- Card: #242323
-- Paragraph: #C2C2C2
-- Footer: #1F1E1E
+- Yellow: hsl(47, 88%, 63%)
+- White: hsl(0, 0%, 100%)
+- Gray 500: hsl(0, 0%, 42%)
+- Gray 950: hsl(0, 0%, 7%)
 
 ## Tipografía
-- Font size (paragraph) - 14px
-- Family: [Montserrat](https://fonts.google.com/specimen/Montserrat)
+- Font size (paragraph) - 16px
+- Family: [Figtree](https://fonts.google.com/specimen/Figtree)
 ```
 
 ## Ideas
@@ -41,9 +41,10 @@ Eres libre de utilizar las tecnologías que quieras. Lo importante es practicar 
   Quiero unirme
 </a>
 
+
 ## Referencias
 
-- Diseño tomado de: [UI Design Daily](https://www.uidesigndaily.com/posts/sketch-profile-card-user-day-718)
+- Diseño tomado de: [Frontend Mentor](https://www.frontendmentor.io/challenges/blog-preview-card-ckPaj01IcS)
 
 ---
 > 🏷️_La mejor manera de aprender a programar es practicando todos los días._

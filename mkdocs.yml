@@ -6,15 +6,19 @@ theme:
   #logo: img/logo.png
 
   palette:
-    primary: slate
-    accent: indigo
-    accent: pink
+    primary: yellow
+    accent: light blue
     locale: en
   toggle:
      icon: material/weather-sunny  # Icono de cambio de tema
      name: Switch to light mode  # Texto del botón
 
+extra_css:
+  - css/extra.css
+
+
 # contenido
 nav:
   - Bienvenido: 'index.md'
   - Day 01: '01-day.md'
+  - Day 02: '02-day.md'

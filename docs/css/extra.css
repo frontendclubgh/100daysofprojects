@@ -1,0 +1,16 @@
+.btn {
+    padding: 10px 20px;
+    background-color: #44475a;
+    color: #f8f8f2;
+    border-radius: 8px;
+    text-decoration: none;
+    font-weight: bold;
+    border: 1px solid #6272a4;
+}
+
+/* .dracula-btn:hover {
+    background-color: #bd93f9;
+    color: #f8f8f2;
+    border-color: #ffb86c;
+    box-shadow: 0 0 10px #ff79c6;
+  } */
