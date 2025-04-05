@@ -27,11 +27,11 @@ Aquí encontrarás los recursos necesarios para completar el desafío.
 
 
 ## Tipografía
+- Inter: 400, 700
+- Lexend+Deca: 400
 - Font size (paragraph) - 15px
 - Family: [Inter](https://fonts.google.com/specimen/Inter)
 - Family: [Lexend+Deca](https://fonts.google.com/specimen/LexendDeca)
-- Inter: 400, 700
-- Lexend+Deca: 400
 ```
 
 ## Ideas

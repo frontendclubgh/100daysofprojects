@@ -2,7 +2,7 @@ site_name: Frontend Club
 # site_url: https://frontendclub.dev
 
 theme:
-  name: dracula
+  name: readthedocs
   #logo: img/logo.png
 
   palette:
@@ -37,3 +37,9 @@ nav:
   - Day 08: '08-day.md'
   - Day 09: '09-day.md'
   - Day 10: '10-day.md'
+  - Day 11: '11-day.md'
+  - Day 12: '12-day.md'
+  - Day 13: '13-day.md'
+  - Day 14: '14-day.md'
+  - Day 15: '15-day.md'
+  - Day 16: '16-day.md'
