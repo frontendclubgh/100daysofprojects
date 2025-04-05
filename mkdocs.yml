@@ -15,6 +15,10 @@ theme:
 
 extra_css:
   - css/extra.css
+  #- css/dark.css
+
+# extra_javascript:
+#   - js/theme-toggle.js
 
 # plugins:
 #   - revealjs:
