@@ -1,0 +1,28 @@
+.btn {
+    padding: 10px 20px;
+    background-color: #44475a;
+    color: #f8f8f2;
+    border-radius: 8px;
+    text-decoration: none;
+    font-weight: bold;
+    border: 1px solid #6272a4;
+}
+
+
+  /* carousel de imagenes */
+  .carousel {
+    display: flex;
+    overflow-x: auto;
+    scroll-snap-type: x mandatory;
+    gap: 1rem;
+    padding-bottom: 1rem;
+  }
+  .carousel img {
+    flex: 0 0 auto;
+    width: 100%;
+    max-width: 600px;
+    height: auto;
+    scroll-snap-align: start;
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.15);
+  }
