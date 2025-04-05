@@ -1,8 +1,8 @@
-# Profile Card
+# Product Preview Card Component
 
-![profile card](./img/01-day.png)
+![product preview card component](./img/05-day.jpg)
 
-Nuestro primer desafío será codificar una **tarjeta de perfil personal**, usando HTML y CSS, y lograr que se parezca lo más posible al diseño original.
+Nuestro desafío será codificar un **componente de tarjeta vista previa** de un producto, usando HTML y CSS, y lograr que se parezca lo más posible al diseño original.
 
 ## Recursos
 
@@ -15,15 +15,21 @@ Aquí encontrarás los recursos necesarios para completar el desafío.
 
 
 ## Colores
-- Background: #212020
-- Card: #242323
-- Paragraph: #C2C2C2
-- Footer: #1F1E1E
+### Primary
+- hsl(158, 36%, 37%) - green 500
+- hsl(158, 42%, 18%) - green 700
+
+### Neutral
+- hsl(212, 21%, 14%) - black
+- hsl(228, 12%, 48%) - grey
+- hsl(30, 38%, 92%) - cream
+- hsl(0, 0%, 100%) - white
 
 
 ## Tipografía
 - Font size (paragraph) - 14px
-- Family: [Montserrat](https://fonts.google.com/specimen/Montserrat)
+- Family (title): [Montserrat](https://fonts.google.com/specimen/Montserrat)
+- Family (body): [Fraunces](https://fonts.google.com/specimen/Fraunces)
 ```
 
 ## Ideas
@@ -43,9 +49,10 @@ Eres libre de utilizar las tecnologías que quieras. Lo importante es practicar 
   Quiero unirme
 </a>
 
+
 ## Referencias
 
-- Diseño tomado de: [UI Design Daily](https://www.uidesigndaily.com/posts/sketch-profile-card-user-day-718)
+- Diseño tomado de: [Frontend Mentor](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfas)
 
 ---
 

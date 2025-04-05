@@ -1,8 +1,8 @@
-# Profile Card
+# Analytics Statistics
 
-![profile card](./img/01-day.png)
+![analytics statistics](./img/04-day.png)
 
-Nuestro primer desafío será codificar una **tarjeta de perfil personal**, usando HTML y CSS, y lograr que se parezca lo más posible al diseño original.
+Nuestro cuarto desafío será codificar una **tarjeta de análisis estadístico**, usando HTML y CSS, y lograr que se parezca lo más posible al diseño original.
 
 ## Recursos
 
@@ -15,15 +15,22 @@ Aquí encontrarás los recursos necesarios para completar el desafío.
 
 
 ## Colores
-- Background: #212020
-- Card: #242323
-- Paragraph: #C2C2C2
-- Footer: #1F1E1E
+- Background: #D2DDF6
+- Card: #F6F9FF
+- Paragraph: #12163C
+
+
+### Gráfico
+- #1A52E1
+- #4473EA
+- #6792FF
+- #96B3FF
 
 
 ## Tipografía
-- Font size (paragraph) - 14px
-- Family: [Montserrat](https://fonts.google.com/specimen/Montserrat)
+- Font size (paragraph) - 16px
+- Family (title): [Merriweather](https://fonts.google.com/specimen/Merriweather)
+- Family (body): [Poppins](https://fonts.google.com/specimen/Poppins)
 ```
 
 ## Ideas
@@ -43,9 +50,10 @@ Eres libre de utilizar las tecnologías que quieras. Lo importante es practicar 
   Quiero unirme
 </a>
 
+
 ## Referencias
 
-- Diseño tomado de: [UI Design Daily](https://www.uidesigndaily.com/posts/sketch-profile-card-user-day-718)
+- Diseño tomado de: [UI Design Daily](https://www.uidesigndaily.com/posts/figma-analytics-statistics-day-1567)
 
 ---
 

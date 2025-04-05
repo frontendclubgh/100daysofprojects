@@ -1,8 +1,8 @@
-# Profile Card
+# Product Info
 
-![profile card](./img/01-day.png)
+![product info](./img/03-day.png)
 
-Nuestro primer desafío será codificar una **tarjeta de perfil personal**, usando HTML y CSS, y lograr que se parezca lo más posible al diseño original.
+Nuestro tercer desafío será codificar una **tarjeta informativa de producto**, usando HTML y CSS, y lograr que se parezca lo más posible al diseño original.
 
 ## Recursos
 
@@ -15,15 +15,16 @@ Aquí encontrarás los recursos necesarios para completar el desafío.
 
 
 ## Colores
-- Background: #212020
-- Card: #242323
-- Paragraph: #C2C2C2
-- Footer: #1F1E1E
+- Background: #EEF2F9
+- Card: #FFFFFF
+- Paragraph: #191847
+- Button: #4787E9
+- Bullet: #00D98B
 
 
 ## Tipografía
-- Font size (paragraph) - 14px
-- Family: [Montserrat](https://fonts.google.com/specimen/Montserrat)
+- Font size (paragraph) - 16px
+- Family: [Poppins](https://fonts.google.com/specimen/Poppins)
 ```
 
 ## Ideas
@@ -43,9 +44,10 @@ Eres libre de utilizar las tecnologías que quieras. Lo importante es practicar 
   Quiero unirme
 </a>
 
+
 ## Referencias
 
-- Diseño tomado de: [UI Design Daily](https://www.uidesigndaily.com/posts/sketch-profile-card-user-day-718)
+- Diseño tomado de: [UI Design Daily](https://www.uidesigndaily.com/posts/figma-product-info-ui-design-card-day-1575)
 
 ---
 

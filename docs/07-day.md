@@ -1,8 +1,8 @@
-# Profile Card
+# QR Code Component
 
-![profile card](./img/01-day.png)
+![qr code component](./img/07-day.jpg)
 
-Nuestro primer desafío será codificar una **tarjeta de perfil personal**, usando HTML y CSS, y lograr que se parezca lo más posible al diseño original.
+Nuestro desafío será codificar un **componente de tarjeta QR**, usando HTML y CSS, y lograr que se parezca lo más posible al diseño original.
 
 ## Recursos
 
@@ -15,15 +15,15 @@ Aquí encontrarás los recursos necesarios para completar el desafío.
 
 
 ## Colores
-- Background: #212020
-- Card: #242323
-- Paragraph: #C2C2C2
-- Footer: #1F1E1E
+- White: hsl(0, 0%, 100%)
+- Slate 300: hsl(212, 45%, 89%)
+- Slate 500: hsl(216, 15%, 48%)
+- Slate 900: hsl(218, 44%, 22%)
 
 
 ## Tipografía
-- Font size (paragraph) - 14px
-- Family: [Montserrat](https://fonts.google.com/specimen/Montserrat)
+- Font size (paragraph) - 15px
+- Family: [Outfit](https://fonts.google.com/specimen/Outfit)
 ```
 
 ## Ideas
@@ -43,9 +43,10 @@ Eres libre de utilizar las tecnologías que quieras. Lo importante es practicar 
   Quiero unirme
 </a>
 
+
 ## Referencias
 
-- Diseño tomado de: [UI Design Daily](https://www.uidesigndaily.com/posts/sketch-profile-card-user-day-718)
+- Diseño tomado de: [Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H)
 
 ---
 

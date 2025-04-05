@@ -1,8 +1,8 @@
-# Profile Card
+# Order Summary Component
 
-![profile card](./img/01-day.png)
+![order summary component](./img/09-day.jpg)
 
-Nuestro primer desafío será codificar una **tarjeta de perfil personal**, usando HTML y CSS, y lograr que se parezca lo más posible al diseño original.
+Nuestro desafío será codificar un **componente orden de pedido**, usando HTML y CSS, y lograr que se parezca lo más posible al diseño original.
 
 ## Recursos
 
@@ -15,15 +15,19 @@ Aquí encontrarás los recursos necesarios para completar el desafío.
 
 
 ## Colores
-- Background: #212020
-- Card: #242323
-- Paragraph: #C2C2C2
-- Footer: #1F1E1E
+### Primary
+- Pale blue: hsl(225, 100%, 94%)
+- Bright blue: hsl(245, 75%, 52%)
+
+### Neutral
+- Very pale blue: hsl(225, 100%, 98%)
+- Desaturated blue: hsl(224, 23%, 55%)
+- Dark blue: hsl(223, 47%, 23%)
 
 
 ## Tipografía
-- Font size (paragraph) - 14px
-- Family: [Montserrat](https://fonts.google.com/specimen/Montserrat)
+- Font size (paragraph) - 16px
+- Family: [RedHatDisplay](https://fonts.google.com/specimen/RedHatDisplay)
 ```
 
 ## Ideas
@@ -43,9 +47,10 @@ Eres libre de utilizar las tecnologías que quieras. Lo importante es practicar 
   Quiero unirme
 </a>
 
+
 ## Referencias
 
-- Diseño tomado de: [UI Design Daily](https://www.uidesigndaily.com/posts/sketch-profile-card-user-day-718)
+- Diseño tomado de: [Frontend Mentor](https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj)
 
 ---
 

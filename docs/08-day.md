@@ -1,8 +1,8 @@
-# Profile Card
+# NFT Preview Card Component
 
-![profile card](./img/01-day.png)
+![nft preview card component](./img/08-day.jpg)
 
-Nuestro primer desafío será codificar una **tarjeta de perfil personal**, usando HTML y CSS, y lograr que se parezca lo más posible al diseño original.
+Nuestro desafío será codificar un **componente NFT con efecto overlay**, usando HTML y CSS, y lograr que se parezca lo más posible al diseño original.
 
 ## Recursos
 
@@ -15,15 +15,20 @@ Aquí encontrarás los recursos necesarios para completar el desafío.
 
 
 ## Colores
-- Background: #212020
-- Card: #242323
-- Paragraph: #C2C2C2
-- Footer: #1F1E1E
+### Primary
+- Soft blue: hsl(215, 51%, 70%)
+- Cyan: hsl(178, 100%, 50%)
+
+### Neutral
+- Very dark blue (main BG): hsl(217, 54%, 11%)
+- Very dark blue (card BG): hsl(216, 50%, 16%)
+- Very dark blue (line): hsl(215, 32%, 27%)
+- White: hsl(0, 0%, 100%)
 
 
 ## Tipografía
-- Font size (paragraph) - 14px
-- Family: [Montserrat](https://fonts.google.com/specimen/Montserrat)
+- Font size (paragraph) - 18px
+- Family: [Outfit](https://fonts.google.com/specimen/Outfit)
 ```
 
 ## Ideas
@@ -43,9 +48,10 @@ Eres libre de utilizar las tecnologías que quieras. Lo importante es practicar 
   Quiero unirme
 </a>
 
+
 ## Referencias
 
-- Diseño tomado de: [UI Design Daily](https://www.uidesigndaily.com/posts/sketch-profile-card-user-day-718)
+- Diseño tomado de: [Frontend Mentor](https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U)
 
 ---
 

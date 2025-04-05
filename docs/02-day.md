@@ -13,11 +13,13 @@ Aquí encontrarás los recursos necesarios para completar el desafío.
 - Móvil: 375px
 - Escritorio: 1200px
 
+
 ## Colores
 - Yellow: hsl(47, 88%, 63%)
 - White: hsl(0, 0%, 100%)
 - Gray 500: hsl(0, 0%, 42%)
 - Gray 950: hsl(0, 0%, 7%)
+
 
 ## Tipografía
 - Font size (paragraph) - 16px
@@ -47,4 +49,7 @@ Eres libre de utilizar las tecnologías que quieras. Lo importante es practicar 
 - Diseño tomado de: [Frontend Mentor](https://www.frontendmentor.io/challenges/blog-preview-card-ckPaj01IcS)
 
 ---
-> 🏷️_La mejor manera de aprender a programar es practicando todos los días._
+
+> 🏷️"_La mejor manera de aprender a programar es practicando todos los días."_  
+
+---

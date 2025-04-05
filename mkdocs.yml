@@ -16,9 +16,20 @@ theme:
 extra_css:
   - css/extra.css
 
+# plugins:
+#   - revealjs:
+#       theme: "black"  # or any other theme you prefer
 
 # contenido
 nav:
   - Bienvenido: 'index.md'
   - Day 01: '01-day.md'
   - Day 02: '02-day.md'
+  - Day 03: '03-day.md'
+  - Day 04: '04-day.md'
+  - Day 05: '05-day.md'
+  - Day 06: '06-day.md'
+  - Day 07: '07-day.md'
+  - Day 08: '08-day.md'
+  - Day 09: '09-day.md'
+  - Day 10: '10-day.md'
