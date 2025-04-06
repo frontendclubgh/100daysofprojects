@@ -2,7 +2,7 @@ site_name: Frontend Club
 # site_url: https://frontendclub.dev
 
 theme:
-  name: readthedocs
+  name: dracula
   #logo: img/logo.png
 
   palette:
