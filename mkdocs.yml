@@ -5,24 +5,9 @@ theme:
   name: dracula
   #logo: img/logo.png
 
-  palette:
-    primary: yellow
-    accent: light blue
-    locale: en
-  toggle:
-     icon: material/weather-sunny  # Icono de cambio de tema
-     name: Switch to light mode  # Texto del botón
-
 extra_css:
   - css/extra.css
   #- css/dark.css
-
-# extra_javascript:
-#   - js/theme-toggle.js
-
-# plugins:
-#   - revealjs:
-#       theme: "black"  # or any other theme you prefer
 
 # contenido
 nav:
@@ -47,3 +32,13 @@ nav:
   - Day 18: '18-day.md'
   - Day 19: '19-day.md'
   - Day 20: '20-day.md'
+  - Day 21: '21-day.md'
+  - Day 22: '22-day.md'
+  - Day 23: '23-day.md'
+  - Day 24: '24-day.md'
+  - Day 25: '25-day.md'
+  - Day 26: '26-day.md'
+  - Day 27: '27-day.md'
+  - Day 28: '28-day.md'
+  - Day 29: '29-day.md'
+  - Day 30: '30-day.md'
