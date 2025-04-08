@@ -32,11 +32,11 @@ Aquí encontrarás los recursos necesarios para completar el desafío.
 ### Body
 - Font size (paragraph): 16px
 
-#### Headings, Call-to-actions, Header Navigation
+### Headings, Call-to-actions, Header Navigation
 - Weights: 400, 700
 - Family: [Raleway](https://fonts.google.com/specimen/Raleway)
 
-#### Body
+### Body
 - Weights: 400
 - Family: [Open Sans](https://fonts.google.com/specimen/Open+Sans)
 ```

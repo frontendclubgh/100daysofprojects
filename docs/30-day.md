@@ -33,7 +33,7 @@ Aquí encontrarás los recursos necesarios para completar el desafío.
 - Weights: 700
 - Family: [Poppins](https://fonts.google.com/specimen/Poppins)
 
-#### Body
+### Body
 - Weights: 400, 600, 700
 - Family: [Open Sans](https://fonts.google.com/specimen/Open+Sans)
 
