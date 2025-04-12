@@ -15,13 +15,19 @@ Aquí encontrarás los recursos necesarios para completar el desafío.
 
 
 ## Colores
+- Background: #eaebff
+- Card: #ffffff
+- Row color: #faf2ff
+- Paragraph : #110f36
 
 
 ## Tipografía
 ### Body
+- Font size (paragraph): 16px
 
-
-### Fonts
+### Font
+- Weights: 400
+- Family: [Roboto](https://fonts.google.com/specimen/Roboto)
 ```
 
 ## Ideas
