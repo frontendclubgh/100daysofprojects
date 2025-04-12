@@ -2,7 +2,7 @@
 
 ![coding bootcamp testimonials slider](./img/45-day.jpeg)
 
-Nuestro desafío será codificar una **página web Loopstudios**, usando HTML, CSS y JavaScript, y lograr que se parezca lo más posible al diseño original.
+Nuestro desafío será codificar un **componente de testimonios**, usando HTML, CSS y JavaScript, y lograr que se parezca lo más posible al diseño original.
 
 ## Recursos
 
@@ -25,7 +25,7 @@ Aquí encontrarás los recursos necesarios para completar el desafío.
 - Font size: 32px
 
 
-### Fonts
+### Font
 - Weights: 300, 500, 700
 - Family: [Inter](https://fonts.google.com/specimen/Inter)
 ```

@@ -2,7 +2,7 @@
 
 ![social media dashboard theme switcher](./img/47-day.jpeg)
 
-Nuestro desafío será codificar una **dashboard modo oscuro**, usando HTML, CSS y JavaScript, y lograr que se parezca lo más posible al diseño original.
+Nuestro desafío será codificar un **dashboard modo oscuro**, usando HTML, CSS y JavaScript, y lograr que se parezca lo más posible al diseño original.
 
 ## Recursos
 
@@ -44,6 +44,7 @@ Aquí encontrarás los recursos necesarios para completar el desafío.
 - Light Grayish Blue (Card BG): hsl(227, 47%, 96%)
 - Dark Grayish Blue (Text): hsl(228, 12%, 44%)
 - Very Dark Blue (Text): hsl(230, 17%, 14%)
+
 
 ## Tipografía
 ### Body
