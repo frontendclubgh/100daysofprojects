@@ -1,6 +1,6 @@
-# Apps List
+# List Table Apps
 
-![apps list](./img/46-day.png)
+![list table apps](./img/46-day.png)
 
 Nuestro desafío será codificar una **lista de aplicaciones**, usando HTML y CSS, y lograr que se parezca lo más posible al diseño original.
 
