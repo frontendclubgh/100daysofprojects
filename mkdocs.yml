@@ -2,7 +2,7 @@ site_name: Frontend Club
 # site_url: https://frontendclub.dev
 
 theme:
-  name: material
+  name: dracula
   #logo: img/logo.png
 
 extra_css:
