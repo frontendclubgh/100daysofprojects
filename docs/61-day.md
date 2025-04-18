@@ -1,0 +1,61 @@
+# Log In Sign Up Authentication
+
+![log in sign up authentication](./img/61-day.png)
+
+Nuestro desafío será codificar un **formulario de autenticación**, usando HTML y CSS, y lograr que se parezca lo más posible al diseño original.
+
+## Recursos
+
+Aquí encontrarás los recursos necesarios para completar el desafío.
+
+```css
+## Diseño
+- Móvil: 375px
+- Escritorio: 1200px
+
+
+## Colores
+- Body: #FFFBFA
+- Card main: #FFFFFF
+- Border input: #D9D5D4
+- Button 1: #A04625
+- Button 2: #0D65C2
+- Text: #161C32
+
+
+## Tipografía
+### Body
+- Font size: 16px
+
+### Fonts
+- Family (title): [Merriweather](https://fonts.google.com/specimen/Merriweather)
+- Family (body): [Mulish](https://fonts.google.com/specimen/Mulish)
+```
+
+## Ideas
+
+Eres libre de utilizar las tecnologías que quieras. Lo importante es practicar y completar un proyecto todos los días:
+
+- [Git](https://git-scm.com/)
+- [CSS](https://www.w3schools.com/css/default.asp)
+- [HTML](https://www.w3schools.com/html/default.asp)
+- [Bootstrap](https://getbootstrap.com/)
+
+## Comunidad
+
+Únete a cientos de miembros que están mejorando sus habilidades de codificación y hablando sobre el desafío **100 days of projects**.
+
+<a href="https://chat.whatsapp.com/LDaK0dksr8f7FbsTWSf0ww" class="btn">
+  Quiero unirme
+</a>
+
+
+## Referencias
+
+- Diseño tomado de: [UI Design Daily](https://www.uidesigndaily.com/posts/sketch-log-in-sign-up-authentication-day-1431)
+
+---
+
+> 🏷️"_La mejor manera de aprender a programar es practicando todos los días."_  
+
+---
