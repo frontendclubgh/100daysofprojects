@@ -1,8 +1,8 @@
-# Pricing Cards Dark Theme Mode
+# Job Cards List
 
-![pricing cards dark theme mode](./img/70-day.png)
+![job cards list](./img/72-day.png)
 
-Nuestro desafío será codificar una **página de pecios modo oscuro**, usando HTML y CSS, y lograr que se parezca lo más posible al diseño original.
+Nuestro desafío será codificar una **lista de tarjetas de empleos**, usando HTML y CSS, y lograr que se parezca lo más posible al diseño original.
 
 ## Recursos
 
@@ -15,20 +15,20 @@ Aquí encontrarás los recursos necesarios para completar el desafío.
 
 
 ## Colores
-- Body: #19223f
-- Card: #7a39f4
-- Card active: #7a39f4
-- Paragraph: #ffffff
+- Body: #F3F6FF
+- Card: #FFFFFF
+- Border button: #C2C5E2
+- Color: #1E2246 (button, paragraph)
 
 
 ## Tipografía
 ### Body
 - Font size: 16px
 
-### Font
-- Family: [Poppins](https://fonts.google.com/specimen/Poppins)
+### Fonts
+- Family (title): [Merriweather](https://fonts.google.com/specimen/Merriweather)
+- Family (paragraph): [Poppins](https://fonts.google.com/specimen/Poppins)
 ```
-
 
 ## Ideas
 
@@ -50,7 +50,7 @@ Eres libre de utilizar las tecnologías que quieras. Lo importante es practicar 
 
 ## Referencias
 
-- Diseño tomado de: [UI Design Daily](https://www.uidesigndaily.com/posts/xd-pricing-cards-card-dark-theme-mode-day-1449)
+- Diseño tomado de: [UI Design Daily](https://www.uidesigndaily.com/posts/figma-job-cards-list-card-day-1524)
 
 ---
 

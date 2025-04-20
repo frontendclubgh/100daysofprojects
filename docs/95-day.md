@@ -1,8 +1,10 @@
-# Pricing Cards Dark Theme Mode
+# Conference Ticket Generator
 
-![pricing cards dark theme mode](./img/70-day.png)
 
-Nuestro desafío será codificar una **página de pecios modo oscuro**, usando HTML y CSS, y lograr que se parezca lo más posible al diseño original.
+![conference ticket generator](./img/95-day.jpg)
+
+Nuestro desafío será codificar un **generador de tickets**, usando HTML, CSS y JavaScript, y lograr que se parezca lo más posible al diseño original.
+
 
 ## Recursos
 
@@ -15,18 +17,25 @@ Aquí encontrarás los recursos necesarios para completar el desafío.
 
 
 ## Colores
-- Body: #19223f
-- Card: #7a39f4
-- Card active: #7a39f4
-- Paragraph: #ffffff
+- Neutral 0: hsl(0, 0%, 100%)
+- Neutral 300: hsl(252, 6%, 83%)
+- Neutral 500: hsl(245, 15%, 58%)
+- Neutral 700: hsl(245, 19%, 35%)
+- Neutral 900: hsl(248, 70%, 10%)
+
+- Orange 500: hsl(7, 88%, 67%)
+- Orange 700: hsl(7, 71%, 60%)
+
+- Gradient (text): hsl(7, 86%, 67%) to hsl(0, 0%, 100%)
 
 
 ## Tipografía
 ### Body
-- Font size: 16px
+- Font size (labels): 20px
 
 ### Font
-- Family: [Poppins](https://fonts.google.com/specimen/Poppins)
+- Weights: 400, 500, 700, 800
+- Family: [Inconsolata](https://fonts.google.com/specimen/Inconsolata)
 ```
 
 
@@ -39,6 +48,7 @@ Eres libre de utilizar las tecnologías que quieras. Lo importante es practicar 
 - [HTML](https://www.w3schools.com/html/default.asp)
 - [Bootstrap](https://getbootstrap.com/)
 
+
 ## Comunidad
 
 Únete a cientos de miembros que están mejorando sus habilidades de codificación y hablando sobre el desafío **100 days of projects**.
@@ -50,7 +60,7 @@ Eres libre de utilizar las tecnologías que quieras. Lo importante es practicar 
 
 ## Referencias
 
-- Diseño tomado de: [UI Design Daily](https://www.uidesigndaily.com/posts/xd-pricing-cards-card-dark-theme-mode-day-1449)
+- Diseño tomado de: [Frontend Mentor](https://www.frontendmentor.io/challenges/conference-ticket-generator-oq5gFIU12w)
 
 ---
 

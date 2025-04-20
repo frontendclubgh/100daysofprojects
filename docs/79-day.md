@@ -1,8 +1,10 @@
-# Pricing Cards Dark Theme Mode
+# LogIn Authentication Form SignUp Dark Theme
 
-![pricing cards dark theme mode](./img/70-day.png)
 
-Nuestro desafío será codificar una **página de pecios modo oscuro**, usando HTML y CSS, y lograr que se parezca lo más posible al diseño original.
+![login authentication form signup dark theme](./img/79-day.png)
+
+Nuestro desafío será codificar un **formulario de inicio de sesión modo oscuro**, usando HTML y CSS, y lograr que se parezca lo más posible al diseño original.
+
 
 ## Recursos
 
@@ -15,10 +17,10 @@ Aquí encontrarás los recursos necesarios para completar el desafío.
 
 
 ## Colores
-- Body: #19223f
-- Card: #7a39f4
-- Card active: #7a39f4
-- Paragraph: #ffffff
+- Body: #040404
+- Card: #080808
+- Button 1: #4285F4
+- Button 2: #FFFFFF
 
 
 ## Tipografía
@@ -26,7 +28,7 @@ Aquí encontrarás los recursos necesarios para completar el desafío.
 - Font size: 16px
 
 ### Font
-- Family: [Poppins](https://fonts.google.com/specimen/Poppins)
+- Family: [Mulish](https://fonts.google.com/specimen/Mulish)
 ```
 
 
@@ -39,6 +41,7 @@ Eres libre de utilizar las tecnologías que quieras. Lo importante es practicar 
 - [HTML](https://www.w3schools.com/html/default.asp)
 - [Bootstrap](https://getbootstrap.com/)
 
+
 ## Comunidad
 
 Únete a cientos de miembros que están mejorando sus habilidades de codificación y hablando sobre el desafío **100 days of projects**.
@@ -50,7 +53,7 @@ Eres libre de utilizar las tecnologías que quieras. Lo importante es practicar 
 
 ## Referencias
 
-- Diseño tomado de: [UI Design Daily](https://www.uidesigndaily.com/posts/xd-pricing-cards-card-dark-theme-mode-day-1449)
+- Diseño tomado de: [UI Design Daily](https://www.uidesigndaily.com/posts/sketch-log-in-authentication-form-sign-up-dark-theme-day-1334)
 
 ---
 

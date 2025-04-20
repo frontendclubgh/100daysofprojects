@@ -1,8 +1,9 @@
-# Pricing Cards Dark Theme Mode
+# Mortgage Repayment Calculator
 
-![pricing cards dark theme mode](./img/70-day.png)
+![mortgage repayment calculator](./img/98-day.jpg)
 
-Nuestro desafío será codificar una **página de pecios modo oscuro**, usando HTML y CSS, y lograr que se parezca lo más posible al diseño original.
+Nuestro desafío será codificar una **calculadora de pagos hipoteca**, usando HTML, CSS y JavaScript, y lograr que se parezca lo más posible al diseño original.
+
 
 ## Recursos
 
@@ -15,18 +16,26 @@ Aquí encontrarás los recursos necesarios para completar el desafío.
 
 
 ## Colores
-- Body: #19223f
-- Card: #7a39f4
-- Card active: #7a39f4
-- Paragraph: #ffffff
+### Primary
+- Lime: hsl(61, 70%, 52%)
+- Red: hsl(4, 69%, 50%)
+
+### Neutral
+- White: hsl(0, 0%, 100%)
+- Slate 100: hsl(202, 86%, 94%)
+- Slate 300: hsl(203, 41%, 72%)
+- Slate 500: hsl(200, 26%, 54%)
+- Slate 700: hsl(200, 24%, 40%)
+- Slate 900: hsl(202, 55%, 16%)
 
 
 ## Tipografía
 ### Body
-- Font size: 16px
+- Font size (paragraph): 16px
 
 ### Font
-- Family: [Poppins](https://fonts.google.com/specimen/Poppins)
+- Weights: 500, 700
+- Family: [Plus Jakarta Sans](https://fonts.google.com/specimen/Plus+Jakarta+Sans)
 ```
 
 
@@ -39,6 +48,7 @@ Eres libre de utilizar las tecnologías que quieras. Lo importante es practicar 
 - [HTML](https://www.w3schools.com/html/default.asp)
 - [Bootstrap](https://getbootstrap.com/)
 
+
 ## Comunidad
 
 Únete a cientos de miembros que están mejorando sus habilidades de codificación y hablando sobre el desafío **100 days of projects**.
@@ -50,7 +60,7 @@ Eres libre de utilizar las tecnologías que quieras. Lo importante es practicar 
 
 ## Referencias
 
-- Diseño tomado de: [UI Design Daily](https://www.uidesigndaily.com/posts/xd-pricing-cards-card-dark-theme-mode-day-1449)
+- Diseño tomado de: [Frontend Mentor](https://www.frontendmentor.io/challenges/mortgage-repayment-calculator-Galx1LXK73)
 
 ---
 

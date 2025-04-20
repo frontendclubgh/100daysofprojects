@@ -1,8 +1,8 @@
-# Pricing Cards Dark Theme Mode
+# Website Section
 
-![pricing cards dark theme mode](./img/70-day.png)
+![website section](./img/74-day.png)
 
-Nuestro desafío será codificar una **página de pecios modo oscuro**, usando HTML y CSS, y lograr que se parezca lo más posible al diseño original.
+Nuestro desafío será codificar una **sección de sitio web**, usando HTML y CSS, y lograr que se parezca lo más posible al diseño original.
 
 ## Recursos
 
@@ -15,20 +15,18 @@ Aquí encontrarás los recursos necesarios para completar el desafío.
 
 
 ## Colores
-- Body: #19223f
-- Card: #7a39f4
-- Card active: #7a39f4
-- Paragraph: #ffffff
-
+- Body: #17103B
+- Card: linear-gradient(#D3EDEE, #D9E5DD, #D9E5DD)
+- Mini card: #C4DFD8
+- Button: #FFA593
 
 ## Tipografía
 ### Body
 - Font size: 16px
 
 ### Font
-- Family: [Poppins](https://fonts.google.com/specimen/Poppins)
+- Family: [IBM+Plex+Sans](https://fonts.google.com/specimen/IBM+Plex+Sans)
 ```
-
 
 ## Ideas
 
@@ -50,7 +48,7 @@ Eres libre de utilizar las tecnologías que quieras. Lo importante es practicar 
 
 ## Referencias
 
-- Diseño tomado de: [UI Design Daily](https://www.uidesigndaily.com/posts/xd-pricing-cards-card-dark-theme-mode-day-1449)
+- Diseño tomado de: [UI Design Daily](https://www.uidesigndaily.com/posts/sketch-website-section-day-1286)
 
 ---
 

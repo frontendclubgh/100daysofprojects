@@ -1,8 +1,8 @@
-# Pricing Cards Dark Theme Mode
+# Storage Plan Card Pricing
 
-![pricing cards dark theme mode](./img/70-day.png)
+![storage plan card pricing](./img/76-day.png)
 
-Nuestro desafío será codificar una **página de pecios modo oscuro**, usando HTML y CSS, y lograr que se parezca lo más posible al diseño original.
+Nuestro desafío será codificar una **tarjeta plan de almacenamiento**, usando HTML y CSS, y lograr que se parezca lo más posible al diseño original.
 
 ## Recursos
 
@@ -15,10 +15,10 @@ Aquí encontrarás los recursos necesarios para completar el desafío.
 
 
 ## Colores
-- Body: #19223f
-- Card: #7a39f4
-- Card active: #7a39f4
-- Paragraph: #ffffff
+- Body: #CCCECF
+- Card: #FFFFFF
+- Pie text: #424FC0
+- Black: #000000 (card, button, paragraph)
 
 
 ## Tipografía
@@ -28,7 +28,6 @@ Aquí encontrarás los recursos necesarios para completar el desafío.
 ### Font
 - Family: [Poppins](https://fonts.google.com/specimen/Poppins)
 ```
-
 
 ## Ideas
 
@@ -50,7 +49,7 @@ Eres libre de utilizar las tecnologías que quieras. Lo importante es practicar 
 
 ## Referencias
 
-- Diseño tomado de: [UI Design Daily](https://www.uidesigndaily.com/posts/xd-pricing-cards-card-dark-theme-mode-day-1449)
+- Diseño tomado de: [UI Design Daily](https://www.uidesigndaily.com/posts/figma-storage-plan-ui-design-card-pricing-day-1529)
 
 ---
 

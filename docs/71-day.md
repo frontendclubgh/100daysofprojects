@@ -1,8 +1,8 @@
-# Pricing Cards Dark Theme Mode
+# Upgrade Plan Pricing Payment
 
-![pricing cards dark theme mode](./img/70-day.png)
+![upgrade plan pricing payment](./img/71-day.png)
 
-Nuestro desafío será codificar una **página de pecios modo oscuro**, usando HTML y CSS, y lograr que se parezca lo más posible al diseño original.
+Nuestro desafío será codificar una **tarjeta de precios** con método de pago, usando HTML y CSS, y lograr que se parezca lo más posible al diseño original.
 
 ## Recursos
 
@@ -15,20 +15,22 @@ Aquí encontrarás los recursos necesarios para completar el desafío.
 
 
 ## Colores
-- Body: #19223f
-- Card: #7a39f4
-- Card active: #7a39f4
-- Paragraph: #ffffff
+- Body: #EEEFF9
+- Card: #FFFFFF
+- Card top: linear-gradient (#9B7FF8, #6570DA)
+- Card bottom: #979797
+- Button: #090B2E
+- Paragraph: #090B2E
 
 
 ## Tipografía
 ### Body
 - Font size: 16px
 
-### Font
-- Family: [Poppins](https://fonts.google.com/specimen/Poppins)
+### Fonts
+- Family (title): [Merriweather](https://fonts.google.com/specimen/Merriweather)
+- Family (paragraph): [IBM+Plex+Sans](https://fonts.google.com/specimen/IBM+Plex+Sans)
 ```
-
 
 ## Ideas
 
@@ -50,7 +52,7 @@ Eres libre de utilizar las tecnologías que quieras. Lo importante es practicar 
 
 ## Referencias
 
-- Diseño tomado de: [UI Design Daily](https://www.uidesigndaily.com/posts/xd-pricing-cards-card-dark-theme-mode-day-1449)
+- Diseño tomado de: [UI Design Daily](https://www.uidesigndaily.com/posts/sketch-upgrade-plan-pricing-payment-day-1421)
 
 ---
 

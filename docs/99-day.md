@@ -1,8 +1,9 @@
-# Pricing Cards Dark Theme Mode
+# Contact Form
 
-![pricing cards dark theme mode](./img/70-day.png)
+![contact form](./img/99-day.jpg)
 
-Nuestro desafío será codificar una **página de pecios modo oscuro**, usando HTML y CSS, y lograr que se parezca lo más posible al diseño original.
+Nuestro desafío será codificar un **formulario de contacto**, usando HTML, CSS y JavaScript, y lograr que se parezca lo más posible al diseño original.
+
 
 ## Recursos
 
@@ -15,18 +16,24 @@ Aquí encontrarás los recursos necesarios para completar el desafío.
 
 
 ## Colores
-- Body: #19223f
-- Card: #7a39f4
-- Card active: #7a39f4
-- Paragraph: #ffffff
+### Primary
+- Green 200 (lighter): hsl(148, 38%, 91%)
+- Green 600 (medium): hsl(169, 82%, 27%)
+- Red: hsl(0, 66%, 54%)
+
+### Neutral
+- White: hsl(0, 0%, 100%)
+- Grey 500 (medium): hsl(186, 15%, 59%)
+- Grey 900 (darker): hsl(187, 24%, 22%)
 
 
 ## Tipografía
 ### Body
-- Font size: 16px
+- Font size (labels): 16px
 
 ### Font
-- Family: [Poppins](https://fonts.google.com/specimen/Poppins)
+- Weights: 400, 700
+- Family: [Karla](https://fonts.google.com/specimen/Karla)
 ```
 
 
@@ -39,6 +46,7 @@ Eres libre de utilizar las tecnologías que quieras. Lo importante es practicar 
 - [HTML](https://www.w3schools.com/html/default.asp)
 - [Bootstrap](https://getbootstrap.com/)
 
+
 ## Comunidad
 
 Únete a cientos de miembros que están mejorando sus habilidades de codificación y hablando sobre el desafío **100 days of projects**.
@@ -50,7 +58,7 @@ Eres libre de utilizar las tecnologías que quieras. Lo importante es practicar 
 
 ## Referencias
 
-- Diseño tomado de: [UI Design Daily](https://www.uidesigndaily.com/posts/xd-pricing-cards-card-dark-theme-mode-day-1449)
+- Diseño tomado de: [Frontend Mentor](https://www.frontendmentor.io/challenges/contact-form--G-hYlqKJj)
 
 ---
 

@@ -1,8 +1,8 @@
-# Pricing Cards Dark Theme Mode
+# Landing Page Website
 
-![pricing cards dark theme mode](./img/70-day.png)
+![landing page website](./img/73-day.png)
 
-Nuestro desafío será codificar una **página de pecios modo oscuro**, usando HTML y CSS, y lograr que se parezca lo más posible al diseño original.
+Nuestro desafío será codificar una **website landing page**, usando HTML y CSS, y lograr que se parezca lo más posible al diseño original.
 
 ## Recursos
 
@@ -15,20 +15,20 @@ Aquí encontrarás los recursos necesarios para completar el desafío.
 
 
 ## Colores
-- Body: #19223f
-- Card: #7a39f4
-- Card active: #7a39f4
-- Paragraph: #ffffff
+- Body: #F5ECEC
+- Card: #FFFFFF
+- Card : #606DFE
+- Color: #2B2862 (paragraph, button)
 
 
 ## Tipografía
 ### Body
 - Font size: 16px
 
-### Font
-- Family: [Poppins](https://fonts.google.com/specimen/Poppins)
+### Fonts
+- Family (title): [Merriweather](https://fonts.google.com/specimen/Merriweather)
+- Family (paragraph): [IBM+Plex+Sans](https://fonts.google.com/specimen/IBM+Plex+Sans)
 ```
-
 
 ## Ideas
 
@@ -50,7 +50,7 @@ Eres libre de utilizar las tecnologías que quieras. Lo importante es practicar 
 
 ## Referencias
 
-- Diseño tomado de: [UI Design Daily](https://www.uidesigndaily.com/posts/xd-pricing-cards-card-dark-theme-mode-day-1449)
+- Diseño tomado de: [UI Design Daily](https://www.uidesigndaily.com/posts/sketch-landing-page-website-day-1217)
 
 ---
 
