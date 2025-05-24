@@ -1,1 +1,3 @@
-# my-project
+# 100 Days of Projects - Frontend Club
+
+🚀 ¡Únete al reto **#100DaysOfProjects**! Si estás empezando en el mundo del desarrollo frontend, este desafío es para ti. Durante 100 días crearás un proyecto al día —desde botones animados hasta mini apps— y verás cómo tus habilidades crecen como nunca antes. 💻✨ No necesitas ser experto, solo tener ganas de aprender, practicar y compartir tu progreso. Cada línea de código te acercará más a convertirte en un frontend developer con confianza. 💪🔥 ¡Inspírate, crea y diviértete en el camino! ¿Aceptas el reto? 🧠📈 #FrontendChallenge #100DaysOfProjects #FrontendClub
